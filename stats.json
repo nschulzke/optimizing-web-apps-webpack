@@ -3,8 +3,8 @@
   "warnings": [],
   "version": "4.6.0",
   "hash": "dd74a7e4278391433489",
-  "time": 120,
-  "builtAt": 1524408656843,
+  "time": 130,
+  "builtAt": 1524410069854,
   "publicPath": "",
   "outputPath": "/home/nathan/learning-webpack/course/app/dist",
   "assetsByChunkName": {
@@ -84,7 +84,7 @@
               "module": null,
               "moduleName": null,
               "type": "single entry",
-              "userRequest": "/home/nathan/learning-webpack/course/app/app.js",
+              "userRequest": "./app/app.js",
               "loc": "main"
             }
           ],
@@ -277,7 +277,7 @@
           "moduleIdentifier": "",
           "moduleName": "",
           "loc": "main",
-          "request": "/home/nathan/learning-webpack/course/app/app.js",
+          "request": "./app/app.js",
           "reasons": []
         }
       ]
@@ -313,7 +313,7 @@
           "module": null,
           "moduleName": null,
           "type": "single entry",
-          "userRequest": "/home/nathan/learning-webpack/course/app/app.js",
+          "userRequest": "./app/app.js",
           "loc": "main"
         }
       ],
